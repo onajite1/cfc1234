@@ -88,7 +88,7 @@ p{
 
 
 
-@media (orientation :portrait {
+@media (orientation :portrait) {
 
 body {
 	margin: 0px;
