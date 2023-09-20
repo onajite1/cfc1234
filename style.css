@@ -94,12 +94,13 @@ body {
 	width:   600px;
 }
 .nav-link {
+	width:   600px;
 	height: 3vh;
 	text-align: right;
 }
 
 .content {
-
+width:   600px;
 }
 
 .box1 {
@@ -147,7 +148,7 @@ body {
 
 }
 
-p{
+p{width:   600px;
 	font-size: 14px;
 	word-wrap: break-word;
 }
@@ -167,7 +168,7 @@ p{
 	width:   600px; margin: 0px;
 }
 
-.nav {
+.nav {width:   600px;
 	background-color: green;
 }
 }
