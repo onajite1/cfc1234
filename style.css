@@ -15,7 +15,8 @@ body {
 }
 
 .box1 {
-	background-color: black;
+	background-color: greenyellow;
+	float: left;;
 	float: left;
 	word-wrap: break-word;
 	width: 35%;
@@ -104,7 +105,7 @@ width:   414px;
 }
 
 .box1 {
-	background-color: black;
+	background-color: greenyellow;
 	float: left;
 	word-wrap: break-word;
 	width:   414px;
