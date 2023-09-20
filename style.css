@@ -87,13 +87,12 @@ p{
 
 
 
-@media (max-width:  294.72px) {
+@media (max-width:   600px) {
 
 body {
 	margin: 0px;
-	width:  294.72px;
+	width:   600px;
 }
-
 .nav-link {
 	height: 3vh;
 	text-align: right;
@@ -107,7 +106,7 @@ body {
 	background-color: black;
 	float: left;
 	word-wrap: break-word;
-	width:  294.72px;
+	width:   600px;
 	text-align: center;
 }
 
@@ -115,7 +114,7 @@ body {
 	background-color: aqua;
 	float: left;
 	word-wrap: break-word;
-	width:  294.72px;
+	width:   600px;
 	text-align: center;
 }
 
@@ -123,12 +122,12 @@ body {
 	background-color: blue;
 	float: left;
 	word-wrap: break-word;
-	width: 294.72px;
+	width:  600px;
 	text-align: center;
 }
 
 .office-addrress {
-	width:  294.72px;
+	width:  600px;
 }
 
 .head-operations {
@@ -136,7 +135,7 @@ body {
 	background-color:purple;
 	text-align: center;
 	align-content: center;
-	width:  294.72px;
+	width:  600px;
 
 }
 
@@ -144,7 +143,7 @@ body {
 	float: left;
 	background-color:gray;
 	text-align: center;
-	width:  294.72px;
+	width:  600px;
 
 }
 
@@ -157,15 +156,15 @@ p{
 
 
 .box11 {
-	width: 294.72px; margin: 0px;
+	width: 600px; margin: 0px;
 }
 
 .box22 {
-	width: 294.72px; margin: 0px;
+	width: 600px; margin: 0px;
 }
 
 .box33 {
-	width:  294.72px; margin: 0px;
+	width:   600px; margin: 0px;
 }
 
 .nav {
