@@ -1,0 +1,174 @@
+
+
+body {
+	margin: 0px;
+	width: 1366px;
+}
+
+.nav-link {
+	height: 3vh;
+	text-align: right;
+}
+
+.content {
+
+}
+
+.box1 {
+	background-color: black;
+	float: left;
+	word-wrap: break-word;
+	width: 35%;
+	text-align: center;
+}
+
+.box2 {
+	background-color: aqua;
+	float: left;
+	word-wrap: break-word;
+	width: 35%;
+	text-align: center;
+}
+
+.box3 {
+	background-color: blue;
+	float: left;
+	word-wrap: break-word;
+	width: 30%;
+	text-align: center;
+}
+
+.office-addrress {
+	width: 1366px;
+}
+
+.head-operations {
+	float: left;
+	background-color:purple;
+	text-align: center;
+	align-content: center;
+	width: 683px;
+
+}
+
+.operations {
+	float: left;
+	background-color:gray;
+	text-align: center;
+	width: 683px;
+
+}
+
+p{
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+
+
+
+.box11 {
+	width: 100%; margin: 0px;
+}
+
+.box22 {
+	width: 100%; margin: 0px;
+}
+
+.box33 {
+	width: 100%; margin: 0px;
+}
+
+.nav {
+	background-color: green;
+}
+
+
+
+
+
+@media (max-width:  294.72px) {
+
+body {
+	margin: 0px;
+	width:  294.72px;
+}
+
+.nav-link {
+	height: 3vh;
+	text-align: right;
+}
+
+.content {
+
+}
+
+.box1 {
+	background-color: black;
+	float: left;
+	word-wrap: break-word;
+	width:  294.72px;
+	text-align: center;
+}
+
+.box2 {
+	background-color: aqua;
+	float: left;
+	word-wrap: break-word;
+	width:  294.72px;
+	text-align: center;
+}
+
+.box3 {
+	background-color: blue;
+	float: left;
+	word-wrap: break-word;
+	width: 294.72px;
+	text-align: center;
+}
+
+.office-addrress {
+	width:  294.72px;
+}
+
+.head-operations {
+	float: left;
+	background-color:purple;
+	text-align: center;
+	align-content: center;
+	width:  294.72px;
+
+}
+
+.operations {
+	float: left;
+	background-color:gray;
+	text-align: center;
+	width:  294.72px;
+
+}
+
+p{
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+
+
+
+.box11 {
+	width: 294.72px; margin: 0px;
+}
+
+.box22 {
+	width: 294.72px; margin: 0px;
+}
+
+.box33 {
+	width:  294.72px; margin: 0px;
+}
+
+.nav {
+	background-color: green;
+}
+}
