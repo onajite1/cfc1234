@@ -173,3 +173,90 @@ p{width:   414px;
 	background-color: green;
 }
 }
+
+
+@media (max-width:   768px) {
+
+body {
+	margin: 0px;
+	width:   768px;
+}
+.nav-link {
+	width:   768px;
+	height: 3vh;
+	text-align: right;
+}
+
+.content {
+width:   768px;
+}
+
+.box1 {
+	background-color: greenyellow;
+	float: left;
+	word-wrap: break-word;
+	width:   768px;
+	text-align: center;
+}
+
+.box2 {
+	background-color: aqua;
+	float: left;
+	word-wrap: break-word;
+	width:   768px;
+	text-align: center;
+}
+
+.box3 {
+	background-color: blue;
+	float: left;
+	word-wrap: break-word;
+	width:  768px;
+	text-align: center;
+}
+
+.office-addrress {
+	width:  768px;
+}
+
+.head-operations {
+	float: left;
+	background-color:purple;
+	text-align: center;
+	align-content: center;
+	width:  768px;
+
+}
+
+.operations {
+	float: left;
+	background-color:gray;
+	text-align: center;
+	width:  768px;
+
+}
+
+p{width:   768px;
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+
+
+
+.box11 {
+	width: 768px; margin: 0px;
+}
+
+.box22 {
+	width: 768px; margin: 0px;
+}
+
+.box33 {
+	width:   768px; margin: 0px;
+}
+
+.nav {width:   768px;
+	background-color: green;
+}
+}
