@@ -87,27 +87,27 @@ p{
 
 
 
-@media (max-width:   300px) {
+@media (max-width:   600px) {
 
 body {
 	margin: 0px;
-	width:   300px;
+	width:   600px;
 }
 .nav-link {
-	width:   300px;
+	width:   600px;
 	height: 3vh;
 	text-align: right;
 }
 
 .content {
-width:   300px;
+width:   600px;
 }
 
 .box1 {
 	background-color: black;
 	float: left;
 	word-wrap: break-word;
-	width:    300px;
+	width:   600px;
 	text-align: center;
 }
 
@@ -115,7 +115,7 @@ width:   300px;
 	background-color: aqua;
 	float: left;
 	word-wrap: break-word;
-	width:    300px;
+	width:   600px;
 	text-align: center;
 }
 
@@ -123,12 +123,12 @@ width:   300px;
 	background-color: blue;
 	float: left;
 	word-wrap: break-word;
-	width:   300px;
+	width:  600px;
 	text-align: center;
 }
 
 .office-addrress {
-	width:   300px;
+	width:  600px;
 }
 
 .head-operations {
@@ -136,7 +136,7 @@ width:   300px;
 	background-color:purple;
 	text-align: center;
 	align-content: center;
-	width:   300px;
+	width:  600px;
 
 }
 
@@ -144,11 +144,11 @@ width:   300px;
 	float: left;
 	background-color:gray;
 	text-align: center;
-	width:   300px;
+	width:  600px;
 
 }
 
-p{width:    300px;
+p{width:   600px;
 	font-size: 14px;
 	word-wrap: break-word;
 }
@@ -157,18 +157,18 @@ p{width:    300px;
 
 
 .box11 {
-	width: 300px; margin: 0px;
+	width: 600px; margin: 0px;
 }
 
 .box22 {
-	width: 300px;margin: 0px;
+	width: 600px; margin: 0px;
 }
 
 .box33 {
-	width:    300px; margin: 0px;
+	width:   600px; margin: 0px;
 }
 
-.nav {width:   300px;
+.nav {width:   600px;
 	background-color: green;
 }
 }
