@@ -175,4 +175,91 @@ p{width:   414px;
 }
 
 
+@media ((orientation : landscape)) {
+
+body {
+	margin: 0px;
+	width:   414px;
+}
+.nav-link {
+	width:   414px;
+	height: 3vh;
+	text-align: right;
+}
+
+.content {
+width:   414px;
+}
+
+.box1 {
+	background-color: greenyellow;
+	float: left;
+	word-wrap: break-word;
+	width:   414px;
+	text-align: center;
+}
+
+.box2 {
+	background-color: aqua;
+	float: left;
+	word-wrap: break-word;
+	width:   414px;
+	text-align: center;
+}
+
+.box3 {
+	background-color: blue;
+	float: left;
+	word-wrap: break-word;
+	width:  414px;
+	text-align: center;
+}
+
+.office-addrress {
+	width:  414px;
+}
+
+.head-operations {
+	float: left;
+	background-color:purple;
+	text-align: center;
+	align-content: center;
+	width:  414px;
+
+}
+
+.operations {
+	float: left;
+	background-color:gray;
+	text-align: center;
+	width:  414px;
+
+}
+
+p{width:   414px;
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+
+
+
+.box11 {
+	width: 414px; margin: 0px;
+}
+
+.box22 {
+	width: 414px; margin: 0px;
+}
+
+.box33 {
+	width:   414px; margin: 0px;
+}
+
+.nav {width:   414px;
+	background-color: green;
+}
+}
+
+
 
