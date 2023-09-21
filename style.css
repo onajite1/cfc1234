@@ -7,7 +7,6 @@ body {
 }
 
 .nav-link {
-	height: 3vh;
 	text-align: right;
 }
 
@@ -83,6 +82,7 @@ p{
 
 .nav {
 	background-color: green;
+	margin-bottom: 4px;
 }
 
 
@@ -97,8 +97,8 @@ body {
 }
 .nav-link {
 	width:   414px;
-	height: 3vh;
 	text-align: right;
+	
 }
 
 .content {
@@ -172,6 +172,8 @@ p{width:   414px;
 
 .nav {width:   414px;
 	background-color: green;
+	margin-bottom: 	4px;
+
 }
 }
 
